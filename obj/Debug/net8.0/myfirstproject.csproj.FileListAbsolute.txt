@@ -1,0 +1,14 @@
+C:\Users\BhavanarayanaChukka\Documents\csharp\properties\myfirstproject\bin\Debug\net8.0\myfirstproject.exe
+C:\Users\BhavanarayanaChukka\Documents\csharp\properties\myfirstproject\bin\Debug\net8.0\myfirstproject.deps.json
+C:\Users\BhavanarayanaChukka\Documents\csharp\properties\myfirstproject\bin\Debug\net8.0\myfirstproject.runtimeconfig.json
+C:\Users\BhavanarayanaChukka\Documents\csharp\properties\myfirstproject\bin\Debug\net8.0\myfirstproject.dll
+C:\Users\BhavanarayanaChukka\Documents\csharp\properties\myfirstproject\bin\Debug\net8.0\myfirstproject.pdb
+C:\Users\BhavanarayanaChukka\Documents\csharp\properties\myfirstproject\obj\Debug\net8.0\myfirstproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BhavanarayanaChukka\Documents\csharp\properties\myfirstproject\obj\Debug\net8.0\myfirstproject.AssemblyInfoInputs.cache
+C:\Users\BhavanarayanaChukka\Documents\csharp\properties\myfirstproject\obj\Debug\net8.0\myfirstproject.AssemblyInfo.cs
+C:\Users\BhavanarayanaChukka\Documents\csharp\properties\myfirstproject\obj\Debug\net8.0\myfirstproject.csproj.CoreCompileInputs.cache
+C:\Users\BhavanarayanaChukka\Documents\csharp\properties\myfirstproject\obj\Debug\net8.0\myfirstproject.dll
+C:\Users\BhavanarayanaChukka\Documents\csharp\properties\myfirstproject\obj\Debug\net8.0\refint\myfirstproject.dll
+C:\Users\BhavanarayanaChukka\Documents\csharp\properties\myfirstproject\obj\Debug\net8.0\myfirstproject.pdb
+C:\Users\BhavanarayanaChukka\Documents\csharp\properties\myfirstproject\obj\Debug\net8.0\myfirstproject.genruntimeconfig.cache
+C:\Users\BhavanarayanaChukka\Documents\csharp\properties\myfirstproject\obj\Debug\net8.0\ref\myfirstproject.dll
