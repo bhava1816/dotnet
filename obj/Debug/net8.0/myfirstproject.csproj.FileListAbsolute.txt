@@ -12,3 +12,4 @@ C:\Users\BhavanarayanaChukka\Documents\csharp\properties\myfirstproject\obj\Debu
 C:\Users\BhavanarayanaChukka\Documents\csharp\properties\myfirstproject\obj\Debug\net8.0\myfirstproject.pdb
 C:\Users\BhavanarayanaChukka\Documents\csharp\properties\myfirstproject\obj\Debug\net8.0\myfirstproject.genruntimeconfig.cache
 C:\Users\BhavanarayanaChukka\Documents\csharp\properties\myfirstproject\obj\Debug\net8.0\ref\myfirstproject.dll
+C:\Users\BhavanarayanaChukka\Documents\csharp\properties\myfirstproject\obj\Debug\net8.0\myfirstproject.sourcelink.json
