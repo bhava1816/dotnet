@@ -13,3 +13,12 @@ C:\Users\BhavanarayanaChukka\Documents\csharp\properties\myfirstproject\obj\Debu
 C:\Users\BhavanarayanaChukka\Documents\csharp\properties\myfirstproject\obj\Debug\net8.0\myfirstproject.genruntimeconfig.cache
 C:\Users\BhavanarayanaChukka\Documents\csharp\properties\myfirstproject\obj\Debug\net8.0\ref\myfirstproject.dll
 C:\Users\BhavanarayanaChukka\Documents\csharp\properties\myfirstproject\obj\Debug\net8.0\myfirstproject.sourcelink.json
+C:\Users\BhavanarayanaChukka\Documents\csharp\properties\myfirstproject\bin\Debug\net8.0\DnsClient.dll
+C:\Users\BhavanarayanaChukka\Documents\csharp\properties\myfirstproject\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\BhavanarayanaChukka\Documents\csharp\properties\myfirstproject\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\BhavanarayanaChukka\Documents\csharp\properties\myfirstproject\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\BhavanarayanaChukka\Documents\csharp\properties\myfirstproject\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\BhavanarayanaChukka\Documents\csharp\properties\myfirstproject\bin\Debug\net8.0\Snappier.dll
+C:\Users\BhavanarayanaChukka\Documents\csharp\properties\myfirstproject\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\BhavanarayanaChukka\Documents\csharp\properties\myfirstproject\obj\Debug\net8.0\myfirstproject.csproj.AssemblyReference.cache
+C:\Users\BhavanarayanaChukka\Documents\csharp\properties\myfirstproject\obj\Debug\net8.0\myfirstp.C6BEBCB4.Up2Date
